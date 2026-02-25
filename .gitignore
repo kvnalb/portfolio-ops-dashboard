@@ -1,0 +1,18 @@
+# Database files
+portfolio_ops.db
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Test artifacts
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
